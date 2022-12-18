@@ -1,4 +1,4 @@
 # HospitalFront
-Angular- ts 
-Extraer archivo
-ejecutar npm install
+##Angular- ts 
+##Extraer archivo
+##ejecutar npm install
